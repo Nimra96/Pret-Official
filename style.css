@@ -1,0 +1,81 @@
+ .navbar{
+    background-color: #1E5D92 !important;
+    
+}
+.navbar h1{
+    color: white;
+
+}
+/*.navbar img{
+width: 20%;
+height: 40px;
+margin: 5px;
+background-color: #1E5D92;
+}*/
+.nav-link{
+    font-weight: bold;
+    color: #ffffff !important;
+} 
+/* .slider-img{
+    margin-top: 10px;
+} */
+
+.fa-user-circle-o, .fa-shopping-cart{
+    font-size: 25px;
+}
+
+
+.home-cards{
+    margin: 40px 30px 30px 50px;
+   
+}
+
+
+.card{
+    width: 100% !important;
+    
+    align-items: center;
+}
+.row{
+    width: 100% !important;
+    
+}
+
+
+.registration{
+    text-align: center;
+    background-color: #FCE0DD;
+    padding: 20px;
+}
+
+.email{
+    background-image: url('https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png');
+    background-size: 35px;
+    background-repeat: no-repeat;
+    padding: 5px 5px 5px 40px;
+    border: 3px solid #1E5D92;
+}
+
+.btn1{
+    padding: 10px 20px 10px 20px;
+    background-color: #1E5D92;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 1em;
+    margin: 5px;
+    border: none;
+}
+.fa-facebook-official, .fa-twitter-square, .fa-google-plus, .fa-instagram, .fa-youtube-play{
+ 
+    font-size: x-large;
+    border-radius: 8px;
+    
+}
+.list-unstyled li a{
+    color: black !important;
+
+}
+
+
+
+  

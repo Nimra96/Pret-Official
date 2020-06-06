@@ -1,0 +1,46 @@
+.navbar{
+    background-color: #F37840 !important;
+    
+}
+.navbar h1{
+    color: white;
+
+}
+.nav-link{
+    font-weight: bold;
+    color: #ffffff !important;
+} 
+.fa-user-circle-o, .fa-shopping-cart{
+    font-size: 25px;
+}
+.navbar-text a{
+    color: white !important;
+}
+.back-to-home{
+    background-color: #FFC400 !important;
+
+} 
+.btn {
+    color: #000000 !important ;
+    font-weight: bold !important;
+}
+.back-to-home a{
+    color: black;
+    
+}
+
+.row{
+    width: 100% !important;
+    padding: 5px 10px 5px 30px ;
+}
+.card{
+    /* margin-left: 10px !important; */
+    display: flex !important;
+}
+.card-body{
+    height: 100px !important;
+
+}
+.card-body h5{
+    font-size: 15px !important;
+}

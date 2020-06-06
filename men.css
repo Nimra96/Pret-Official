@@ -1,0 +1,106 @@
+.navbar{
+    background-color: #23036A !important;
+    
+}
+.navbar h1{
+    color: white;
+
+}
+.nav-link{
+    font-weight: bold;
+    color: #ffffff !important;
+} 
+.fa-user-circle-o, .fa-shopping-cart{
+    font-size: 25px;
+}
+.navbar-text a{
+    color: white !important;
+} 
+
+.back-to-home a{
+    color: black;
+    background-color: #424250 !important;
+}
+
+.home-cards{
+    margin: 40px 20px 20px 40px;
+   
+}
+h3 a{
+    font-size: 20px;
+}
+
+ .card{
+    width: 100% !important;
+    
+    align-items: center;
+}
+
+.card-container{
+    display: flex !important;
+}
+.sidenav {
+    width: 130px;
+    top: 20px;
+    left: 10px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000000;
+    display: block;
+}
+  
+  .sidenav a:hover {
+    color: #064579;
+}  
+
+ @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  } 
+   .main {
+    margin-left: 150px; /* Same width as the sidebar + left position in px */
+     font-size: 28px; /* Increased text to enable scrolling */
+     padding: 0px 10px; 
+    margin-top: -700px;
+    
+  }  
+
+.sidenav{
+    border: 1px solid #ecedef;
+    margin: 20px;
+    box-shadow: #ecedef;
+}
+.para1{
+    border: 1px solid lightgrey;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+.dress-pics{
+    display: flex;
+    justify-content: space-between;    
+}
+.dress1{
+    background-color: #FAFAFA;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px; 
+    
+}
+
+.dress1 img{
+    width: 70%;
+    height: 300px;
+    margin: 20px;
+}
+.dress1 p{
+    margin-left: 30px;
+    font-size: small;
+}
